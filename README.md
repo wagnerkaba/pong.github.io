@@ -1,3 +1,5 @@
-# PONG SEM SOM
+# PONG 
 
-Esta versão do PONG não contém sons. Assim, não é necessário um servidor local para o jogo funcionar.
+Jogo de PONG utilizando Javascript:
+
+https://wagnerkaba.github.io/pong/index.html
